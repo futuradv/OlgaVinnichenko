@@ -34,6 +34,7 @@
 				width: 500px;
 			height: 640px;
 			background-image: url("../images/face.jpg");
+			background-size: 105%;
 			margin-left: -20px;
 			margin-top: -20px;
 			border-radius: 40px;
